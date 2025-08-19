@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+div {
+    padding: 50px;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.box1 {
+    background-color: black;
+    color: white;
+    
+}
+
+.box2 {
+    background-color: green;
+    color: white;
+}
+
+.titulo1 {
+    text-transform: uppercase;
+}
